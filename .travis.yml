@@ -1,3 +1,20 @@
 language: objective-c
 xcode_project: CCTransition.xcodeproj
 xcode_scheme: CCTransition
+
+script:
+
+  xctool
+  -project CCTransition.xcodeproj
+  -scheme CCTransition
+  build
+  test
+  ONLY_ACTIVE_ARCH=NO
+  CODE_SIGN_IDENTITY=""
+  CODE_SIGNING_REQUIRED=NO
+
+
+before_install:
+  - brew update
+  - brew uninstall xctool && brew install --HEAD xctool
+
