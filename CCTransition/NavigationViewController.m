@@ -7,6 +7,7 @@
 //
 
 #import "NavigationViewController.h"
+#import "CCTransitionManager.h"
 
 @interface NavigationViewController ()
 
@@ -18,6 +19,7 @@
     [super viewDidLoad];
     self.navigationBar.backgroundColor = [UIColor blackColor];
     [self addBackGesture];
+    self.delegate = [CCTransitionManager sharedInstance];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -26,7 +28,6 @@
 }
 
 - (void)dealloc {
-    [self manualDealloc];
 }
 
 @end

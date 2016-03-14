@@ -33,11 +33,11 @@
 - (IBAction)crossDissolve:(id)sender {
     ViewController *vc = [ViewController new];
     vc.view.backgroundColor = [UIColor yellowColor];
-    [self.navigationController pushViewController:vc option:CCTransitionAnimationOptionCrossDissolve];
+    [self.navigationController pushViewController:vc option:CCTransitionAnimationOptionCrossDissolvePush];
 }
 
 - (IBAction)defaultAction:(id)sender {
-    [self.navigationController pushViewController:[ViewController new] option:CCTransitionAnimationOptionDefault];
+    [self.navigationController pushViewController:[ViewController new] option:CCTransitionAnimationOptionDefaultPush];
 }
 
 @end

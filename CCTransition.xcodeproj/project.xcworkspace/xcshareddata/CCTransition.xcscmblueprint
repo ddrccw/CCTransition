@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "80F945E87BF72AC4E8A1A6C518EAEBDDAC10833A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "80F945E87BF72AC4E8A1A6C518EAEBDDAC10833A" : 0,
+    "D44B7D3D27BF4830284394FED88FE50ECEF1CA55" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E73557D1-6F91-481F-9E4D-B151834007C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "80F945E87BF72AC4E8A1A6C518EAEBDDAC10833A" : "CCTransition",
+    "D44B7D3D27BF4830284394FED88FE50ECEF1CA55" : "..\/..\/study_iphone_app"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CCTransition",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CCTransition.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ddrccw\/CCTransition.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80F945E87BF72AC4E8A1A6C518EAEBDDAC10833A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git4u.hz.netease.com:8822\/edu-ios\/study-iphone-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D44B7D3D27BF4830284394FED88FE50ECEF1CA55"
+    }
+  ]
+}
