@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: CCTransition.xcodeproj
+xcode_scheme: CCTransition
