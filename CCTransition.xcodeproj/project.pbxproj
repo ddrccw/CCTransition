@@ -55,7 +55,7 @@
 		2AB05BC91C96600800CE811A /* CCTransitionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CCTransitionManager.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		2AB05BD31C96619B00CE811A /* UINavigationController+CCTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+CCTransition.h"; sourceTree = "<group>"; };
 		2AB05BD41C96619B00CE811A /* UINavigationController+CCTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+CCTransition.m"; sourceTree = "<group>"; };
-		2AB05BD61C9661F600CE811A /* CCSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CCSingleton.h; path = ../../../../../study_iphone_app/Edu901iPhone/src/utilities/CCSingleton.h; sourceTree = "<group>"; };
+		2AB05BD71C96840D00CE811A /* CCSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSingleton.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,7 +143,7 @@
 		2A5C65001B297CA000764A0F /* CCTransition */ = {
 			isa = PBXGroup;
 			children = (
-				2AB05BD61C9661F600CE811A /* CCSingleton.h */,
+				2AB05BD71C96840D00CE811A /* CCSingleton.h */,
 				2AB05BD31C96619B00CE811A /* UINavigationController+CCTransition.h */,
 				2AB05BD41C96619B00CE811A /* UINavigationController+CCTransition.m */,
 				2AB05BC51C96600800CE811A /* CCTransitionAnimator.h */,
