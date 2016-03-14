@@ -204,6 +204,7 @@
 				TargetAttributes = {
 					2A5C64D61B297C2200764A0F = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = TEFG9ZGRT9;
 					};
 					2A5C64EF1B297C2200764A0F = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -371,13 +372,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = CCTransition/PrefixHeader.pch;
 				INFOPLIST_FILE = CCTransition/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = ddrccw.CCTransition;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ddrccw.CCTransition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -386,13 +389,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = CCTransition/PrefixHeader.pch;
 				INFOPLIST_FILE = CCTransition/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = ddrccw.CCTransition;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ddrccw.CCTransition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
