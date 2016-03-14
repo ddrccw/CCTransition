@@ -118,7 +118,7 @@ build/
 #    or manually install git over the top of the OS X version
 # NB: this is exclusive with OPTION 1 above
 #
-xcuserdata/**/*
+xcuserdata/
  
 #     (requires option 2 above): Personal Schemes
 #

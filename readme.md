@@ -1,4 +1,7 @@
 
+[![Travis](https://travis-ci.org/ddrccw/CCTransition.svg)](https://travis-ci.org/ddrccw/CCTransition)
+
+
 支持iOS 7+
 
 原理：使用ios7新增的自定义transition机制实现。参考FDFullscreenPopGesture的代码，让navigationbar的过渡更自然
